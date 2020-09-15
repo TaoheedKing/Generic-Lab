@@ -1,5 +1,5 @@
 /*
- * Nimesh Fernando Generic Lab
+ * Taoheed King Generic Lab
  */
 /**
    Computes the average of a set of data values.
